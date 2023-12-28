@@ -24,7 +24,7 @@ Certifique-se de ter um compilador C instalado em seu sistema para executar o pr
 5. Siga as instruções exibidas no terminal para inserir o número de variáveis e a saída da tabela verdade para gerar o mapa de Karnaugh correspondente.
 
 ### Detalhes Técnicos
-O programa tem suporte para até 4 variáveis e aceita valores booleanos (0 ou 1) como entrada para a tabela verdade. Certifique-se de inserir os valores corretos para obter o resultado esperado.
+O programa tem suporte para até 4 variáveis e aceita valores booleanos (0 ou 1) como entrada para a saída da tabela verdade. Certifique-se de inserir os valores corretos para obter o resultado esperado.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues relatando problemas, sugerir melhorias ou enviar pull requests para aprimorar este projeto.
